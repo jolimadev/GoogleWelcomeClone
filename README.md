@@ -1,2 +1,2 @@
 # GoogleWelcomeClone
- Using Html and Css i made a Google Homepage Clone
+ Using Html and Css, i made a Google Homepage Clone
